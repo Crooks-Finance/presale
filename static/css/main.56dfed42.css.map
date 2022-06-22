@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.56dfed42.css","mappings":"AAEA,uBAEE","sources":["index.scss"],"sourcesContent":["\n// Set static for top menu\n#progress,\n.chakra-stat{\n  position: static !important;\n}"],"names":[],"sourceRoot":""}
